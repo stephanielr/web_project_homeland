@@ -1,0 +1,37 @@
+.homelandArt {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 984px;
+  height: 983px;
+  margin: 0 auto;
+  margin-bottom: 92px;
+}
+
+.homelandArt__title {
+  font-family: "Inter-Black";
+  font-size: 96px;
+  line-height: 100px;
+  letter-spacing: 0%;
+  text-align: center;
+  font-weight: 900;
+  width: 720px;
+  height: 200px;
+}
+
+.homelandArt__description {
+  font-family: "Inter-Regular";
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+  letter-spacing: 0%;
+  width: 720px;
+  height: 72px;
+  text-align: center;
+}
+
+.homelandArt__image {
+  filter: grayscale(100%);
+  width: 984px;
+  height: 615px;
+}

@@ -1,0 +1,13 @@
+.header {
+  font-family: "Inter-Black";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 34px;
+}
+
+.header__logo {
+  width: 32px;
+  height: 32px;
+}
