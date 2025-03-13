@@ -11,3 +11,20 @@
   width: 32px;
   height: 32px;
 }
+
+@media (max-width: 768px) {
+  .header__logo {
+    display: flex;
+    width: 32px;
+    height: 30.17px;
+    padding-bottom: 90px;
+  }
+}
+
+@media (max-width: 320px) {
+  .header__logo {
+    display: flex;
+    width: 23.69px;
+    height: 23.77px;
+  }
+}
