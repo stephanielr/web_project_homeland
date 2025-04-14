@@ -5,4 +5,4 @@ El proyecto "TripleTen Art Gallery" consiste en una galeria de arte, en donde mu
 2025.Stephanie Lopez.
 
 Puede consultar el proyecto con GitHub Page:
-https://stephanielr.github.io/web_project_homeland/
+https://stephanielr.github.io/web_project_homeland/index.html
